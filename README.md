@@ -16,3 +16,5 @@ specific font files into the system.
 
 This allows users to load font files into the system and make them accessible 
 to any program. Tested on Windows XP and Windows 7. Requires .NET 3.5 or newer.
+
+[Download](https://github.com/rnelson/fontsploder/releases/tag/0.0.1.0)
