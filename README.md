@@ -1,5 +1,7 @@
 # FontSploder
 
+![Screenshot](https://raw.githubusercontent.com/rnelson/fontsploder/images/fontsploder.jpg)
+
 FontSploder came out of a request from a friend in 2010. Using a locked down 
 Windows computer at work, he was unable to do many things, including adding 
 and removing fonts to the system.
